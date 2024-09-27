@@ -46,6 +46,6 @@ src="https://img.shields.io/twitter/follow/maneeswar_m?logo=twitter&style=for-th
 
 <a href="http://www.github.com/maneeswarmutyala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maneeswarmutyala&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/maneeswarmutyala"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maneeswarmutyala&bg_color=0f172a&color=ffffff&line=ffffff&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/maneeswarmutyala"><img src="https://github-readme-activity-graph.vercel.app/graph?username=maneeswarmutyala&bg_color=0f172a&color=ffffff&line=ffffff&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/maneeswarmutyala" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneeswarmutyala&hide_progress=true" alt="Top Languages" /></a>
+<a href="https://github.com/maneeswarmutyala" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneeswarmutyala&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide_progress=true" alt="Top Languages" /></a>
