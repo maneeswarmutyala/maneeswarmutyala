@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* ✉️  You can contact me at [maneeswar2000m@gmail.com](mailto:maneeswar2000m@gmail.com)
-* 🧠  I'm learning Web3
 
 <a href="https://www.github.com/maneeswarmutyala" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/maneeswarmutyala?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" /></a><a href="https://www.twitter.com/maneeswar_m" target="_blank" rel="noreferrer"><img
